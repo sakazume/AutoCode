@@ -1,0 +1,57 @@
+{"template-engine":
+	[
+	    {
+	        "key": "template-jsp",
+	        "pomjson": {
+				"groupId" : "org.thymeleaf",
+				"artifactId" : "thymeleaf",
+				"version" : "2.0.18"
+	        }
+	    },
+	    {
+	        "key": "template-thymeleaf",
+	        "pomjson": {
+				"groupId" : "org.thymeleaf",
+				"artifactId" : "thymeleaf",
+				"version" : "2.0.18"
+	        }
+	    },
+	    {
+	        "key": "template-velocity",
+	        "pomjson": {
+				"groupId" : "org.thymeleaf",
+				"artifactId" : "thymeleaf",
+				"version" : "2.0.18"
+	        }
+	    }
+	],
+	
+	"orm":
+	[
+	    {
+	        "key": "orm-eclipselink",
+	        "pomjson": {
+				"groupId" : "org.thymeleaf",
+				"artifactId" : "thymeleaf",
+				"version" : "2.0.18"
+	        }
+	    },
+	    {
+	        "key": "orm-hibernate",
+	        "pomjson": {
+				"groupId" : "org.hibernate",
+				"artifactId" : "hibernate-entitymanager",
+				"version" : "4.3.1.Final"
+	        }
+	    },
+	    {
+	        "key": "orm-querydsl",
+	        "pomjson": {
+				"groupId" : "com.mysema.querydsl",
+				"artifactId" : "querydsl-sql",
+				"version" : "3.3.1"
+	        }
+	    }
+	]
+	
+}
